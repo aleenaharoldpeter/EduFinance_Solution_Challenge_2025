@@ -1,23 +1,44 @@
-# EduFinanceConnect
+# Uplift
 
 ## Problem Statement
 
 **Breaking Financial Barriers to Ensure Equal Access to Education**
 
-Many students from lower-income families struggle with financial constraints, leading to dropped classes, poor academic performance, and a cycle of poverty. **EduFinanceConnect** is designed to break these barriers by connecting students with relevant scholarship opportunities—making it easier to find, track, and apply for financial assistance.
+Many students from lower-income families struggle with financial constraints, leading to dropped classes, poor academic performance, and a cycle of poverty. **Uplift** is designed to break these barriers by connecting students with relevant scholarship opportunities—making it easier to find, track, and apply for financial assistance.
 
 ---
 
 ## Why Our Solution Makes Sense
 
 ### Targeted Focus
-Unlike broad national portals, **EduFinanceConnect** is built specifically for lower-income students. Our platform focuses solely on scholarships, offering a streamlined, user-friendly experience tailored to our audience.
+Unlike broad national portals, **Uplift** is built specifically for lower-income students. Our platform focuses solely on scholarships, offering a streamlined, user-friendly experience tailored to our audience.
 
 ### Localized Multi-Language Support
 The app supports **Hindi**, **Kannada**, and **English**, ensuring accessibility for students who may not be comfortable with English-only platforms. This localized support improves usability and inclusivity.
 
 ---
 
+
+## Live Demo
+
+You can view the live version of our app at:  
+[Click here](https://financial-b7b5b.web.app)
+
+---
+
+
+## YouTube or Vimeo Video Submission
+
+For our submission, we have prepared a video (up to 3 minutes) that explains our solution, its functionality, and the social impact of Uplift. This video is available here:  
+[Explanation Video on YouTube](https://www.youtube.com/watch?v=fVIySxZ_cd0&list=PLeS0-0AtGQeBmFebWQu09nj9D2QNu6uB-)
+
+---
+## Assumptions
+
+- *Feature Coverage:* This webapp does not showcase all features demonstrated in the demo video.
+- *Translation Service:* The ML-based translation service is a provisional solution and currently does not support the web platform.
+- *Data Source:* For MVP purposes, dummy data is used throughout the application.
+---
 ## Essential Features (MVP)
 
 ### Scholarship Filtering
@@ -95,7 +116,7 @@ The app supports **Hindi**, **Kannada**, and **English**, ensuring accessibility
 
 ~~~bash
 git clone <repository-url>
-cd EduFinanceConnect
+cd Uplift
 ~~~
 **2. Install Flutter Packages:**    
 
@@ -244,7 +265,7 @@ flutter pub get
 
 ## Evaluation & Impact
 
-**EduFinanceConnect** addresses the financial barriers faced by lower-income students by making scholarship information accessible through a focused and user-friendly interface.  
+**Uplift** addresses the financial barriers faced by lower-income students by making scholarship information accessible through a focused and user-friendly interface.  
 With built-in multi-language support, localized features, and a clear path toward AI-driven enhancements—including IDX-powered data extraction and Gemini API integration—our app is poised to make a significant social impact while ensuring that financial assistance reaches those who need it most.
 
 ---
