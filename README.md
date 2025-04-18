@@ -115,7 +115,7 @@ For our submission, we have prepared a video (up to 3 minutes) that explains our
 **1. Clone the Repository:**
 
 ~~~bash
-git clone <repository-url>
+git clone https://github.com/aleenaharoldpeter/Uplift_Solution_Challenge_2025.git
 cd Uplift
 ~~~
 **2. Install Flutter Packages:**    
